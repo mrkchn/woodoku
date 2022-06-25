@@ -1,0 +1,8 @@
+name: woodoku
+channels:
+  - defaults
+  - pytorch
+dependencies:
+  - python==3.9
+  - pytorch==1.6.0+cpuonly
+  - pygame
